@@ -1,6 +1,6 @@
 # Using-Morphological-Filter-to-detect-missing-teeth-from-gears
 
-![image](docs/images/gear_tooth.png)
+![image](docs/images/example.png)
 
 _Project assignment of Advanced Computer Vision course in Taiwan, NDHU CSIE_
 
